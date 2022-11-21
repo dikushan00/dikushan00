@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m [Dinmukhamed]()
+- 👋 Hi, I’m Dinmukhamed
 - 💞️ I love to play football and PS with my friends.
 - 📫 You can reach me through my [email](dikushan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dinmukhamed-sirazhiden-961315194/).
 
