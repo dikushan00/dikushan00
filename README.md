@@ -1,7 +1,9 @@
 
 Hi there 👋
 👋 Hi, I’m Dinmukhamed
+
 💞️ I love to play football and PS with my friends.
+
 📫 You can reach me through my email or LinkedIn.
 
 ![dikushan's github stats](https://github-readme-stats.vercel.app/api?username=dikushan00)
