@@ -15,9 +15,10 @@
 - Control over the small sales department
 - Competitors research
 
-Links
-Linkedin: https://www.linkedin.com/in/dinmukhamed-sirazhiden-961315194
+Links:
 
-Facebook: https://www.facebook.com/profile.php?id=100010909352523&mibextid=ZbWKwL
+- Linkedin: https://www.linkedin.com/in/dinmukhamed-sirazhiden-961315194
 
-GitHub: https://github.com/dikushan00
+- Facebook: https://www.facebook.com/profile.php?id=100010909352523&mibextid=ZbWKwL
+
+- GitHub: https://github.com/dikushan00
